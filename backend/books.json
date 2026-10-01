@@ -1,0 +1,149 @@
+[
+  {
+    "judul": "Langit di Balik Jendela",
+    "penulis": "Arga Pratama",
+    "kategori": "Fiksi",
+    "stok": 8,
+    "id": 1
+  },
+  {
+    "judul": "Jejak Sang Penjelajah",
+    "penulis": "Nadia Putri",
+    "kategori": "Petualangan",
+    "stok": 5,
+    "id": 2
+  },
+  {
+    "judul": "Belajar Python dari Nol",
+    "penulis": "Raka Wijaya",
+    "kategori": "Teknologi",
+    "stok": 4,
+    "id": 3
+  },
+  {
+    "judul": "Dasar-Dasar Jaringan Komputer",
+    "penulis": "Dimas Saputra",
+    "kategori": "Teknologi",
+    "stok": 2,
+    "id": 4
+  },
+  {
+    "judul": "Misteri Rumah Tua",
+    "penulis": "Salsa Maharani",
+    "kategori": "Misteri",
+    "stok": 0,
+    "id": 5
+  },
+  {
+    "judul": "Pemrograman Web Modern",
+    "penulis": "Fajar Nugraha",
+    "kategori": "Teknologi",
+    "stok": 7,
+    "id": 6
+  },
+  {
+    "judul": "Cerita dari Ujung Kota",
+    "penulis": "Alya Ramadhani",
+    "kategori": "Fiksi",
+    "stok": 3,
+    "id": 7
+  },
+  {
+    "judul": "Pengantar Basis Data",
+    "penulis": "Rizky Kurniawan",
+    "kategori": "Teknologi",
+    "stok": 6,
+    "id": 8
+  },
+  {
+    "judul": "Rahasia Pulau Senja",
+    "penulis": "Kevin Mahendra",
+    "kategori": "Petualangan",
+    "stok": 1,
+    "id": 9
+  },
+  {
+    "judul": "Sejarah Nusantara",
+    "penulis": "Bima Adinata",
+    "kategori": "Sejarah",
+    "stok": 9,
+    "id": 10
+  },
+  {
+    "judul": "Kopi dan Percakapan",
+    "penulis": "Nabila Sari",
+    "kategori": "Fiksi",
+    "stok": 4,
+    "id": 11
+  },
+  {
+    "judul": "Algoritma untuk Pemula",
+    "penulis": "Andi Setiawan",
+    "kategori": "Teknologi",
+    "stok": 3,
+    "id": 12
+  },
+  {
+    "judul": "Perjalanan Menuju Timur",
+    "penulis": "Yoga Firmansyah",
+    "kategori": "Petualangan",
+    "stok": 5,
+    "id": 13
+  },
+  {
+    "judul": "Ensiklopedia Sains Dasar",
+    "penulis": "Maya Lestari",
+    "kategori": "Sains",
+    "stok": 2,
+    "id": 14
+  },
+  {
+    "judul": "Hujan di Bulan November",
+    "penulis": "Rani Kusuma",
+    "kategori": "Fiksi",
+    "stok": 0,
+    "id": 15
+  },
+  {
+    "judul": "Mengenal Dunia Digital",
+    "penulis": "Daffa Ramadhan",
+    "kategori": "Teknologi",
+    "stok": 8,
+    "id": 16
+  },
+  {
+    "judul": "Catatan Seorang Pemimpi",
+    "penulis": "Intan Permata",
+    "kategori": "Motivasi",
+    "stok": 6,
+    "id": 17
+  },
+  {
+    "judul": "Kisah di Balik Perjalanan",
+    "penulis": "Farhan Akbar",
+    "kategori": "Petualangan",
+    "stok": 1,
+    "id": 18
+  },
+  {
+    "judul": "Dunia Ekonomi Sederhana",
+    "penulis": "Gilang Prakoso",
+    "kategori": "Ekonomi",
+    "stok": 4,
+    "id": 19
+  },
+  {
+    "judul": "Membangun Kebiasaan Baik",
+    "penulis": "Citra Anggraini",
+    "kategori": "Motivasi",
+    "stok": 7,
+    "id": 20
+  },
+  {
+    "judul": "Dasar Pemrograman Web",
+    "penulis": "Adam",
+    "kategori": "Teknologi",
+    "stok": 5,
+    "id": 21
+  }
+]
